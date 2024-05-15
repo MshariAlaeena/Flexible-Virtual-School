@@ -13,7 +13,7 @@ The Flexible Virtual School aims to provide an accessible and effective platform
   - [Phase 1: Problem Definition](Problem%20Definition.pdf)
   - [Phase 2: System Architecture Document](System%20Architecture%20Document.pdf)
   - [Phase 3: System Design Document](System%20Design%20Document.pdf)
-  - [Phase 4: Final Report and Oral Presentation](Final%20Report%20And%20Oral%20Presentation.pdf)
+  - [Phase 4: Final Report and Oral Presentation](Final%20Report%20and%20Oral%20Presentation.pdf)
 - [Contributors](#contributors)
 
 ## Introduction
