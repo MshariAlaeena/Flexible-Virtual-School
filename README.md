@@ -98,12 +98,13 @@ For detailed documentation, please refer to the [Phase 4: Final Report and Oral 
 
 This project was developed by a dedicated team of students from King Saud University, College of Computer and Information Sciences, Department of Software Engineering. The contributors are:
 
-- **Talal Alothman** (Team Leader)
+- **Talal Alothman**
+- **Mshari Alaeena**
 - **Saud Alkatheeri**
 - **Saleh Alghaith**
 - **Khaled Alharbi**
 - **Talal Alkahtani**
-- **Mshari Alaeena**
+
 
 ## License
 
