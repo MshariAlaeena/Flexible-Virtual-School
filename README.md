@@ -10,10 +10,10 @@ The Flexible Virtual School aims to provide an accessible and effective platform
 
 - [Introduction](#introduction)
 - [Project Phases](#project-phases)
-  - [Phase 1: Problem Definition](docs/ProblemDefinition.md)
-  - [Phase 2: System Architecture Document](docs/SystemArchitectureDocument.md)
-  - [Phase 3: System Design Document](docs/SystemDesignDocument.md)
-  - [Phase 4: Final Report and Oral Presentation](docs/FinalReportAndOralPresentation.md)
+  - [Phase 1: Problem Definition](docs/ProblemDefinition.pdf)
+  - [Phase 2: System Architecture Document](docs/SystemArchitectureDocument.pdf)
+  - [Phase 3: System Design Document](docs/SystemDesignDocument.pdf)
+  - [Phase 4: Final Report and Oral Presentation](docs/FinalReportAndOralPresentation.pdf)
 - [Contributors](#contributors)
 
 ## Introduction
@@ -46,7 +46,7 @@ In this phase, we analyze the problem domain, identify the challenges, and propo
 - Challenges
 - Projection
 
-For detailed documentation, please refer to the [Phase 1: Problem Definition](docs/ProblemDefinition.md).
+For detailed documentation, please refer to the [Phase 1: Problem Definition](docs/ProblemDefinition.pdf).
 
 ### Phase 2: System Architecture Document
 
@@ -64,7 +64,7 @@ This phase focuses on designing the system architecture, making key design decis
 - Quality Assurance
 - Future Considerations
 
-For detailed documentation, please refer to the [Phase 2: System Architecture Document](docs/SystemArchitectureDocument.md).
+For detailed documentation, please refer to the [Phase 2: System Architecture Document](docs/SystemArchitectureDocument.pdf).
 
 ### Phase 3: System Design Document
 
@@ -79,7 +79,7 @@ In this phase, we provide detailed designs for each system component, including 
   - Sequence Diagrams
   - State Diagrams
 
-For detailed documentation, please refer to the [Phase 3: System Design Document](docs/SystemDesignDocument.md).
+For detailed documentation, please refer to the [Phase 3: System Design Document](docs/SystemDesignDocument.pdf).
 
 ### Phase 4: Final Report and Oral Presentation
 
@@ -92,7 +92,7 @@ In this phase, we compile the final report and prepare for the oral presentation
 - Architecture Analysis and Testing
 - Personal Reflection
 
-For detailed documentation, please refer to the [Phase 4: Final Report and Oral Presentation](docs/FinalReportAndOralPresentation.md).
+For detailed documentation, please refer to the [Phase 4: Final Report and Oral Presentation](docs/FinalReportAndOralPresentation.pdf).
 
 ## Contributors
 
