@@ -92,7 +92,7 @@ In this phase, we compile the final report and prepare for the oral presentation
 - Architecture Analysis and Testing
 - Personal Reflection
 
-For detailed documentation, please refer to the [Phase 4: Final Report and Oral Presentation](Final%20Report%20And%20Oral%20Presentation.pdf).
+For detailed documentation, please refer to the [Phase 4: Final Report and Oral Presentation](Final%20Report%20and%20Oral%20Presentation.pdf).
 
 ## Contributors
 
